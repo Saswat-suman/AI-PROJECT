@@ -45,11 +45,5 @@ The following four models were trained and tested:
 - Each model's accuracy is printed in the console.
 - The **best-performing model** is highlighted at the end of execution.
 
-## Future Improvements
-- Feature engineering to enhance model accuracy.
-- Trying deep learning models for better performance.
-- Using advanced hyperparameter tuning techniques.
 
-## Author
-Developed as a beginner AI project to explore **EDA** and **Machine Learning Model Training** using real-world healthcare data.
 
